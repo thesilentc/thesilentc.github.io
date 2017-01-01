@@ -1,0 +1,21 @@
+# Site settings
+title: The Silent C
+header-img: img/home-bg.png
+email: thesilentc@me.com
+copyright_name: thesilentc
+description: > # this means to ignore newlines until "baseurl:"
+  Kindness and Senseless 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: thesilentc
+github_username:  thesilentc
+learn_profile: thesilentc
+email_username: thesilentc@me.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
