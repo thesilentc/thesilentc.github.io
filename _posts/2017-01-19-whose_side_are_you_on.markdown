@@ -36,6 +36,4 @@ One great piece of advice I received seemed like a solid token of wisdom. My fri
 
 I mean, if I’m going to code all day long forever, I might as well have fun, too.
 
-
-
-"At its most fundamental, information is a binary choice. In other words, a single bit of information is one yes-or-no choice." James Gleick 
+Yesterday I finished making a Tic-Tac-Toe board using Ruby and I am indeed having a very good time learning how to code.
