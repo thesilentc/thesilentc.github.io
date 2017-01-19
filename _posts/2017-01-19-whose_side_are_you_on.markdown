@@ -32,7 +32,7 @@ Node.js?
 
 
 
-One great piece of advice I received seemed like a solid token of wisdom. My friend told me that “You have to learn to down on other programmers for their choice of language and tools."
+One great piece of advice I received seemed like a solid token of wisdom. My friend told me that “You have to learn to look down on other programmers for their choice of language and tools."
 
 I mean, if I’m going to code all day long forever, I might as well have fun, too.
 
