@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Whose Side Are You On?"
-date:   2017-01-19 15:27:57 +0000
+date:   2017-01-19 10:27:58 -0500
 ---
 
 
