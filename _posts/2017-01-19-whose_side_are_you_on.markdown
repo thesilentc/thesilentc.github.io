@@ -19,12 +19,12 @@ So what language should I learn first?
 
 Ruby?
 
-![Imgur](http://i.imgur.com/Fha6DCV.jpg)
+! [Imgur](http://i.imgur.com/Fha6DCV.jpg)
 
 
 Node.js?
 
-![Imgur](http://i.imgur.com/CpGbDsK.jpg)
+! [Imgur](http://i.imgur.com/CpGbDsK.jpg)
 
 ^^^ I don’t even know what clojure is, but that's funny!
 
