@@ -19,7 +19,7 @@ So what language should I learn first?
 
 Ruby?
 
-![Imgur](http://i.imgur.com/Fha6DCV.jpg)
+![Imgur](http://i.imgur.com/Fha6DCV.jpg?raw=true)
 
 
 Node.js?
