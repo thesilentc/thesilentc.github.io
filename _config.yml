@@ -1,10 +1,10 @@
 # Site settings
-title: The Silent 'C'
+title: !false
 header-img: img/home-bg.png
 email: thesilentc@me.com
 copyright_name: James Borocz
 description: > # this means to ignore newlines until "baseurl:"
-  { coders.journey_of | James_Borocz | }
+  It's funny because it's true
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: TheSilentC
 github_username:  thesilentc
