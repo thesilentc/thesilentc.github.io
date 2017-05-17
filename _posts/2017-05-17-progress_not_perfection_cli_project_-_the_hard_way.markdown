@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Progress, not perfection: CLI project - The Hard Way
-date:   2017-05-17 01:24:32 +0000
+date:   2017-05-16 21:24:32 -0400
 ---
 
 
