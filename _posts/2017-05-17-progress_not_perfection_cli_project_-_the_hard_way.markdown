@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Progress, not perfection: CLI project - The Hard Way
+title:  "Progress, not perfection: CLI project - The Hard Way"
 date:   2017-05-16 21:24:32 -0400
 ---
 
