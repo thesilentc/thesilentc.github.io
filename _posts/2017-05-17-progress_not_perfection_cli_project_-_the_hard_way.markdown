@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  Progress, not perfection: 
+title:  Progress, not perfection: CLI project - The Hard Way
 date:   2017-05-16 21:24:32 -0400
 ---
 
-## CLI project - The Hard Way
 
 Early on into my journey of learning to code with Flatiron School and Learn.co I figured out the best way for me to fully immerse myself into the curriculum. Along with mapping out goals over 13-week cycles and printing out every single lesson and lab and posting it on my wall (17 pages, in case you were wondering), I chose to handwrite all my code on graph paper. I didn't stop there. I color coded each line to match the ruby linter installed on my text editor of choice (currently Atom). I will write another blog post about 'How I Learn', but for right now I want to talk about how much that has helped me out during the final projects in the Ruby section.
 
