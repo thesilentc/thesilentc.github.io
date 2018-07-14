@@ -5,11 +5,11 @@ date:   2016-12-31 23:59:12 -0500
 ---
 
 
-Today is my birthday. I'm not bragging or looking for attention. Ok, maybe a little, but I'm looking forward to writing code here with the learn.community... 
+Today is my birthday. I'm not bragging or looking for attention. Ok, maybe a little, but I'm looking forward to writing code here with the learn.community...
 
 2016 was a very strange year. It feels as if human consciousness stumbled in the universe and we landed in a different timeline than where we started. It difficult to explain, but I imagine you understand what I'm talking about.
 
-Here's to a far less weird 2017.
+Here's to a far less weird 2017. (updated 7.13.2018: so much for that ;)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Any fool can write code that a computer can understand. Good programmers write code that humans can understand. 😏 <a href="https://twitter.com/hashtag/Programming?src=hash">#Programming</a> <a href="https://twitter.com/hashtag/inspiration?src=hash">#inspiration</a></p>&mdash; iLoveCoding (@ilovecodingorg) <a href="https://twitter.com/ilovecodingorg/status/829163014062559237">February 8, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
