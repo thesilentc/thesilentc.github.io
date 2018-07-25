@@ -14,3 +14,6 @@ Add updated new githb graph pic to img file
 Jjust about ready to start my first ppst at codesattva
 I shoiuld really learn how rto truetype
 ALSO, there is an article from Fast Company that talks about note taking and comprehension. Great idea for blog ppost
+
+Handwriting notes vs copying verbatim on a computer increases comprehension by at much as %50 (? - check on that)
+https://www.fastcompany.com/3069147/how-to-finally-stop-taking-useless-notes-at-work
