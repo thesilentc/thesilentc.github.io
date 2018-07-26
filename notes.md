@@ -18,3 +18,5 @@ ALSO, there is an article from Fast Company that talks about note taking and com
 Handwriting notes vs copying verbatim on a computer increases comprehension by at much as %50 (? - check on that)
 https://www.fastcompany.com/3069147/how-to-finally-stop-taking-useless-notes-at-work
 https://medium.com/the-mission/this-10-minute-routine-will-increase-your-memory-and-creativity-b4f4dc7161ce
+
+getting enough desktop space alone is unerving on a laptop and no 2nd display
