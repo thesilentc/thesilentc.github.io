@@ -24,3 +24,5 @@ getting enough desktop space alone is unnerving on a laptop and no 2nd display
 Added and built out Terminal blog post
 
 building out a new controller for editing hosts in Sinatra Portfolio project
+
+Request Responce cycle (written on 10/5/18)
