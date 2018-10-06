@@ -14,7 +14,7 @@ HTTP stands for HyperText Transfer Protocol. This is a basis for data communi
 
 *Request–response is one of the basic methods computers use to communicate with servers.*  A computer sends a request for some data and the server responds to the request. Usually, there is a series of such interchanges until the complete message is sent; browsing a web page is an example of request–response communication.
 
-##### We refer to 'users' as using Browsers or **Clients**.
+### We refer to 'users' as using Browsers or **Clients**.
 
 Clients make requests.  
 Servers make responses and send them back to the browser.  
@@ -51,7 +51,7 @@ When a user clicks on the "signup" button, the browser will use the GET method t
 
 ![](https://www.verbundo.com/img/flink_customer_api_part2.png)
 
-##### Some other notes on GET requests:
+### Some other notes on GET requests:
 
 * GET requests can be cached
 * GET requests remain in the browser history
@@ -60,7 +60,7 @@ When a user clicks on the "signup" button, the browser will use the GET method t
 * GET requests have length restrictions
 * GET requests is only used to request data (not modify)
 
-##### Some other notes on POST requests:
+### Some other notes on POST requests:
 
 * POST requests are never cached
 * POST requests do not remain in the browser history
