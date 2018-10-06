@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Get and Request Cycle"
-date:       2018-10-06 04:31:55 +0000
+date:       2018-10-06 00:31:56 -0400
 permalink:  the_get_and_request_cycle
 ---
 
@@ -23,14 +23,33 @@ Request–response can be seen as a telephone call, in which someone is called a
 
 ![](http://www.thesilentc.com/rqstrspnc.png)
 
+In Sinatra a route is an HTTP method paired with a matching URL-matching pattern.   
+Each route is associated with a block.
+
+
 The two most common HTTP methods for sending requests are:
 * The GET request is used to request data from a specified resource.
 * The POST request is used to send data to a server to create/update a resource.
+
+```
+get '/' do
+  .. show something ..
+end
+
+post '/' do
+  .. create/update something ..
+end
+```
 
 When a URL is inputted, the browser sends a GET request to a web server. When a form is submitted on a website, a POST request is submitted, and the browser hands off the form data to be handled by the server.
 
 POST requests send data to a server, which then send a response 
 as a view rendered in HTML back in the browser.
+
+Let's say you have an app that has a “signup” button on the landing page.
+When a user clicks on the "signup" button, the browser will use the GET method to send a request for a *form* to the server. The server will send back a *responce*  which will render a view in HTML of a form that the user can fill in. When the user clicks on a "submit" button, the client will then use the POST method to send that data to the server where it will be processed.
+
+![](https://www.verbundo.com/img/flink_customer_api_part2.png)
 
 ##### Some other notes on GET requests:
 
