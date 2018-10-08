@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The Get and Request Cycle"
+title:      "The Request And Response Cycle"
 date:       2018-10-05 22:31:56 -0400
 permalink:  the_get_and_request_cycle
 ---
