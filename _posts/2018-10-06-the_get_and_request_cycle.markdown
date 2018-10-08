@@ -5,7 +5,7 @@ date:       2018-10-06 17:48:26 -0400
 permalink:  the_get_and_request_cycle
 ---
 
-Place holder to delete dupuplicate post
+Place holder to delete duplicate post
 
 ![](https://blog.nxp.com/wp-content/uploads/2017/10/Software-car-reuse-960x425.jpg)
 
