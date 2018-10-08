@@ -2,7 +2,7 @@
 layout: post
 title:      "Future Blog Post"
 date:       2018-10-06 17:48:26 -0400
-permalink:  the_get_and_request_cycle
+permalink:  future_blog_post
 ---
 
 Place holder to delete duplicate post
