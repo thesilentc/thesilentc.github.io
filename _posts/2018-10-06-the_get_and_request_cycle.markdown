@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "The Get and Request Cycle"
-date:       2018-10-06 21:48:26 +0000
+title:      "The Request and Responce Cycle"
+date:       2018-10-06 00:31:56 -0400
 permalink:  the_get_and_request_cycle
 ---
 
@@ -66,4 +66,5 @@ When a user clicks on the "signup" button, the browser will use the GET method t
 * POST requests do not remain in the browser history
 * POST requests cannot be bookmarked
 * POST requests have no restrictions on data length
+
 
