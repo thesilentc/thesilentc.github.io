@@ -1,20 +1,20 @@
 ---
 layout: post
-title:      "The Get and Request Cycle"
-date:       2018-10-06 21:48:26 +0000
-permalink:  the_get_and_request_cycle
+title:      "The Request And Response Cycle"
+date:       2018-10-05 22:31:56 -0400
+permalink:  the_request_and_response_cycle
 ---
 
 
 HTTP stands for HyperText Transfer Protocol. This is a basis for data communication in the internet. The data communication starts with a request sent from a client and ends with the response received from a web server.
 
-* A website URL starting with “http://” is entered in a web browser from a computer (client). 
+* A website URL starting with “http://” is entered in a web browser from a computer (client).
 * Browser sends a request sent to the web server that hosts the website.
 * The server then returns a response as a HTML page or any other document format to the browser.
 
-*Request–response is one of the basic methods computers use to communicate with servers.*  A computer sends a request for some data and the server responds to the request. Usually, there is a series of such interchanges until the complete message is sent; browsing a web page is an example of request–response communication. 
+*Request–response is one of the basic methods computers use to communicate with servers.*  A computer sends a request for some data and the server responds to the request. Usually, there is a series of such interchanges until the complete message is sent; browsing a web page is an example of request–response communication.
 
-### We refer to 'users' as using Browsers or **Clients**. 
+### We refer to 'users' as using Browsers or **Clients**.
 
 Clients make requests.  
 Servers make responses and send them back to the browser.  
@@ -43,7 +43,7 @@ end
 
 When a URL is inputted, the browser sends a GET request to a web server. When a form is submitted on a website, a POST request is submitted, and the browser hands off the form data to be handled by the server.
 
-POST requests send data to a server, which then send a response 
+POST requests send data to a server, which then send a response
 as a view rendered in HTML back in the browser.
 
 Let's say you have an app that has a “signup” button on the landing page.
@@ -66,4 +66,3 @@ When a user clicks on the "signup" button, the browser will use the GET method t
 * POST requests do not remain in the browser history
 * POST requests cannot be bookmarked
 * POST requests have no restrictions on data length
-
