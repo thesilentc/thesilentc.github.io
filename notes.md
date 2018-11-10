@@ -30,3 +30,5 @@ Request Response cycle (written on 10/5/18)
 What is old is new again
 
 Post on render vs redirect
+
+post on how nature effects the immune system
