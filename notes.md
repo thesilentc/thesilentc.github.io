@@ -19,10 +19,14 @@ Handwriting notes vs copying verbatim on a computer increases comprehension by a
 https://www.fastcompany.com/3069147/how-to-finally-stop-taking-useless-notes-at-work
 https://medium.com/the-mission/this-10-minute-routine-will-increase-your-memory-and-creativity-b4f4dc7161ce
 
-getting enough desktop space alone is unnerving on a laptop and no 2nd display
+
 
 Added and built out Terminal blog post
 
 building out a new controller for editing hosts in Sinatra Portfolio project
 
-Request Responce cycle (written on 10/5/18)
+Request Response cycle (written on 10/5/18)
+
+What is old is new again
+
+Post on render vs redirect
