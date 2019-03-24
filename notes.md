@@ -19,7 +19,7 @@ Handwriting notes vs copying verbatim on a computer increases comprehension by a
 https://www.fastcompany.com/3069147/how-to-finally-stop-taking-useless-notes-at-work
 https://medium.com/the-mission/this-10-minute-routine-will-increase-your-memory-and-creativity-b4f4dc7161ce
 
-
+Started using ulysyyus
 
 Added and built out Terminal blog post
 
